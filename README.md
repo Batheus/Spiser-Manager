@@ -1,6 +1,6 @@
-# gerente_loja
+# spiser_manager
 
-A new Flutter application.
+O projeto Spiser.
 
 ## Getting Started
 
