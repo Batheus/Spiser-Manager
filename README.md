@@ -1,6 +1,6 @@
 # Spiser Manager
 
-O projeto Spiser: Aplicativo Spiser Manager desenvolvido como requisito para a realização de meu Trabalho de Conclusão de Curso na escola técnica ETEC Raposo Tavares.<br/>
+O projeto Spiser:<br/> O Aplicativo Spiser Manager foi desenvolvido como requisito para a realização de meu Trabalho de Conclusão de Curso na escola técnica ETEC Raposo Tavares.<br/>
 Aplicativo mobile desenvolvido utilizando Dart e Flutter.<br/>
 Agradeço ao professor Daniel Ciolfi pelo conhecimento lecionado em seu curso, pois o mesmo foi de extrema ajuda e importância para a realização do projeto como um todo.
 
