@@ -10,7 +10,7 @@ Agradeço ao professor Daniel Ciolfi pelo conhecimento lecionado em seu curso, p
 
 O sistema de aprimoramento no atendimento dos restaurantes, entitulado de Spiser, é um projeto desenvolvido para a obtenção do diploma do curso técnico de informática da ETEC Raposo Tavares.<br/>
 O Spiser Manager é o segundo aplicativo desenvolvido visando este projeto. <br/>
-Seu objetivo é gerenciar todas as necessidades de um restaurante: Acompanhar comandas, visualizar cadastro dos clientes e informações pertinentes aos mesmos (Nome, email, quantos pedidos o cliente realizou e o quanto foi gasto), cadastrar e editar produtos e categorias.<br/> Todas essas funções poderiam ser realizadas pelos funcionários do estabelecimento diretamente de seus smartphones, em uma interface limpa, fluída e de fácil utilização.
+Seu objetivo é gerenciar todas as necessidades de um restaurante:<br/>-Acompanhar comandas;<br/>-Visualizar cadastro dos clientes e informações pertinentes aos mesmos (Nome, email, quantos pedidos o cliente realizou e o quanto foi gasto);<br/>-Cadastrar e editar produtos e categorias.<br/> Todas essas funções poderiam ser realizadas pelos funcionários do estabelecimento diretamente de seus smartphones, em uma interface limpa, fluída e de fácil utilização.
 
 _Acesse nosso website, [clique aqui][projeto] e saiba mais sobre o projeto._
 
