@@ -12,7 +12,7 @@ O sistema de aprimoramento no atendimento dos restaurantes, entitulado de Spiser
 O Spiser Manager é o segundo aplicativo desenvolvido visando este projeto. <br/>
 Seu objetivo é gerenciar todas as necessidades de um restaurante: Acompanhar comandas, visualizar cadastro dos clientes e informações pertinentes aos mesmos (Nome, email, quantos pedidos o cliente realizou e o quanto foi gasto), cadastrar e editar produtos e categorias.<br/> Todas essas funções poderiam ser realizadas pelos funcionários do estabelecimento diretamente de seus smartphones, em uma interface limpa, fluída e de fácil utilização.
 
-_Acesse nosso website, clique aqui e saiba mais sobre o [projeto][projeto]._
+_Acesse nosso website, [clique aqui][projeto] e saiba mais sobre o projeto._
 
 ## Teste o Spiser Manager
 
