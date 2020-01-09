@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">118627708248-iguh5e7bha24mll4o48icktom5ktm4ie.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://spiser-tcc.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">118627708248</string>
+    <string name="google_api_key" translatable="false">AIzaSyBluOVG8AmjJzTEOPvwQIrMPDyIHtuVOu8</string>
+    <string name="google_app_id" translatable="false">1:118627708248:android:0e769db71bfe302ded892d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBluOVG8AmjJzTEOPvwQIrMPDyIHtuVOu8</string>
+    <string name="google_storage_bucket" translatable="false">spiser-tcc.appspot.com</string>
+    <string name="project_id" translatable="false">spiser-tcc</string>
+</resources>
