@@ -1,29 +1,33 @@
 # Spiser Manager
 
-O projeto Spiser:<br/> O Aplicativo Spiser Manager foi desenvolvido como requisito para a realização de meu Trabalho de Conclusão de Curso na escola técnica ETEC Raposo Tavares.<br/>
-Aplicativo mobile desenvolvido utilizando Dart e Flutter.<br/>
-Agradeço ao professor Daniel Ciolfi pelo conhecimento lecionado em seu curso, pois o mesmo foi de extrema ajuda e importância para a realização do projeto como um todo.
+The Spiser project:<br/> The Spiser App was developed was a requirement for my Course Completion Work at ETEC Raposo Tavares.<br/>
+Mobile App developed using Dart and Flutter.<br/>
+I thank Professor Daniel Ciolfi for the knowledge given in his course, as they were extremely useful and important for the realization of the project as a whole.
 
 ![](header.png)
 
-## Conheça nosso projeto
+## Know our project
 
-O sistema de aprimoramento no atendimento dos restaurantes, entitulado de Spiser, é um projeto desenvolvido para a obtenção do diploma do curso técnico de informática da ETEC Raposo Tavares.<br/>
-O Spiser Manager é o segundo aplicativo desenvolvido visando este projeto. <br/>
-Seu objetivo é gerenciar todas as necessidades de um restaurante:<br/>-Acompanhar comandas;<br/>-Visualizar o cadastro dos clientes e informações pertinentes aos mesmos (Nome, email, quantos pedidos o cliente realizou e o quanto foi gasto);<br/>-Cadastrar e editar produtos e categorias.<br/> Todas essas funções poderiam ser realizadas pelos funcionários do estabelecimento diretamente de seus smartphones, em uma interface limpa, fluída e de fácil utilização.
+The restaurant service improvement system, named Spiser, is a project developed to obtain the diploma of the technical course of ETEC Raposo Tavares.<br/>
+Spiser Manager is the second application developed for this project. <br/>
+It aims to manage all the needs of a restaurant:
+<br/>- Track orders;
+<br/>- View the customer record and information relevant to them (Name, email, how many orders the customer placed and how much was spent by him);
+<br/>- Register and edit products and categories.
+<br/> All of these functions can be performed by the establishment's customers directly from their smartphones, in a clean, fluid and easy-to-use interface.
 
-_Acesse nosso website, [clique aqui][projeto] e saiba mais sobre o projeto._
+_Visite our website, [click here][projeto] and learn more about the project._
 
-## Teste o Spiser Manager
+## Test the Spiser Manager
 
-Realize o download agora mesmo pelo nosso [website][projeto] e analise na prática todas as funções deste sistema.<br/>
-Disponível para o sistema operacional Android.<br/>
-Dados de acesso ao Spiser Manager: <br/>
+Download it now from our [website][projeto] and analyze in practice all the functions of this system.<br/>
+Available for Android.<br/>
+Access data for  Spiser Manager: <br/>
 Email: admin@spiser.com <br/>
-Senha: admin123
+Password: admin123
 
-## Contato
+## Contact
 
-Matheus Henrique Rodrigues da Silva - [LinkedIn](https://www.linkedin.com/in/matheus-henrique-rodrigues-da-silva-4aa431188/) - mathhenry395@gmail.com
+Matheus Henrique Rodrigues da Silva - [LinkedIn](https://www.linkedin.com/in/batheusdev/) - batheus.dev@gmail.com
 
 [projeto]: https://spiser-tcc.web.app/
